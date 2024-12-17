@@ -106,4 +106,13 @@ The project includes unit tests using pytest. To run the tests:
     pytest tests/test_main.py
     ```
 
+## Contribution Guidelines
 
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix.
+3.  Make your changes and ensure tests pass.
+4.  Submit a pull request with a clear description of your changes.
+
+## License
+
+This project is licensed under the MIT License.
